@@ -42,7 +42,8 @@ apis:
   - name: Cooper Hewitt
     description: "Smithsonian Design Museum"
     humanURL: https://collection.cooperhewitt.org/api
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
